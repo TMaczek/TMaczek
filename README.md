@@ -13,8 +13,6 @@
 - [Service with Spring and React allowing to create ranking of your favourite albums](https://github.com/TMaczek/zti_projekt)
 - [Creating helpdeck schedule using genetic algorithm](https://github.com/TMaczek/AG_projekt)
 
-## Currently
-![just testing this for fun](https://spotify-recently-played-readme.vercel.app/api?user=gentarouk&count=1)
 
 <!--
 **TMaczek/TMaczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
