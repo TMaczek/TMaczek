@@ -1,7 +1,7 @@
 ## About me
 
 - 🧑 I'm Tomasz
-- 🎓 I studied **Applied Computer Science** at **Akademia Górniczo Hutnicza UST** in Cracow, Poland. I have my master defence later this month!
+- 🎓 I studied **Applied Computer Science** at **Akademia Górniczo Hutnicza UST** in Cracow, Poland. I graduated with Master's Degree in 2024.
 - 👩🏻‍💻 Fields that I'm mostly interested in include: **machine learning**, **data analysis**, **data science**, **numerical methods** (but not limited to only those).
 - 🎵 In free time enjoying music and learning japanese 🇯🇵.
 - 💻 Technologies I'm familiar with:  
