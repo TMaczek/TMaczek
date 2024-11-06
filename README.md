@@ -1,10 +1,11 @@
 ## About me
 
-- 🧑 I'm Tomasz
-- 🎓 I studied **Applied Computer Science** at **Akademia Górniczo Hutnicza UST** in Cracow, Poland. I graduated with Master's Degree in 2024.
-- 👩🏻‍💻 Fields that I'm mostly interested in include: **machine learning**, **data analysis**, **data science**, **numerical methods** (but not limited to only those).
-- 🎵 In free time enjoying music and learning japanese 🇯🇵.
-- 💻 Technologies I'm familiar with:  
+-  I'm Tomasz
+-  I studied **Applied Computer Science** at **Akademia Górniczo Hutnicza UST** in Cracow, Poland. I graduated with Master's Degree in 2024.
+-  Fields that I'm mostly interested in include: **machine learning**, **data analysis**, **data science**, **numerical methods** (but not limited to only those).
+-  In free time enjoying music and learning japanese 🇯🇵.
+-  While we're at it, you really should listen to **Found Heaven** by Conan Gray.
+-  Technologies I'm familiar with:  
   [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css,matlab,latex)](https://skillicons.dev)
 
 ##  Some of my work
