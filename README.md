@@ -1,12 +1,13 @@
 ## About me
 
--  I'm Tomasz
+-  I'm Tomasz (he/him)
 -  I studied **Applied Computer Science** at **Akademia Górniczo Hutnicza UST** in Cracow, Poland. I graduated with Master's Degree in 2024.
--  Fields that I'm mostly interested in include: **machine learning**, **data analysis**, **data science**, **numerical methods** (but not limited to only those).
--  In free time enjoying music and learning japanese 🇯🇵.
--  While we're at it, you really should listen to **Found Heaven** by Conan Gray.
+-  Fields that I'm mostly interested in include: **data analysis**, **data science**, **numerical methods**,  **machine learning** (but not limited to only those).
 -  Technologies I'm familiar with:  
   [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css,matlab,latex)](https://skillicons.dev)
+
+-  In free time enjoying pop music and watching weird Japanese superheroes.
+-  While we're at it, you really should listen to **Time Is A Flower** by Telenova.
 
 ##  Some of my work
 - [Weather prediction using Recurrent Neural Networks](https://github.com/TMaczek/MLA_project)
