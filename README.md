@@ -2,7 +2,7 @@
 
 -  I'm Tomasz (he/him)
 -  I studied **Applied Computer Science** at **Akademia Górniczo Hutnicza UST** in Cracow, Poland. I graduated with Master's Degree in 2024.
--  Fields that I'm mostly interested in include: **data analysis**, **data science**, **numerical methods**,  **machine learning** (but not limited to only those).
+-  Fields that I'm mostly interested in include: **data analysis**, **data engineering**, **data science**, **numerical methods**,  **machine learning** (but not limited to only those).
 -  Technologies I'm familiar with:  
   [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css,matlab,latex)](https://skillicons.dev)
 
